@@ -10,7 +10,6 @@
 
 - 😶‍🌫️ I mostly use private repos so you dont have to look at my shitty code
 
-- 📫 How to reach me: magnusku@gmx.de
 ---
 
   
