@@ -3,16 +3,16 @@
 </h1>
 
 
-### About me:
-
-- ℹ️ My name is Magnus
-
-- 🔭 I’m currently working on a school project
-
-- 🌱 I’m currently learning rust with bevy
-
-- 😶‍🌫️ I mostly use private repos so you dont have to look at my shitty code
-
+> ### About me:
+>
+> - ℹ️ My name is Magnus
+>
+>- 🔭 I’m currently working on a school project
+>
+>- 🌱 I’m currently learning rust with bevy
+>
+>- 😶‍🌫️ I mostly use private repos so you dont have to look at my shitty code
+>
 ---
 <div style="border: thin solid white">
   <p align="center">
