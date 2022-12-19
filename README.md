@@ -15,6 +15,6 @@
   
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=camelcaseisthebest&show_icons=true&theme=codeSTACKr&bg_color=00000000)
 
-![trophy](https://github-profile-trophy.vercel.app/?username=camelcaseisthebest&theme=juicyfresh&no-bg=true&no-frame=true)
+![trophy](https://github-profile-trophy.vercel.app/?username=camelcaseisthebest&theme=juicyfresh&no-bg=true&no-frame=true&row=2&column=3)
 <!--- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=camelcaseisthebest&theme=codeSTACKr&bg_color=00000000) --->
 
