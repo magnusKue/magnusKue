@@ -11,10 +11,11 @@
 - 😶‍🌫️ I mostly use private repos so you dont have to look at my shitty code
 
 ---
-
-  
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=camelcaseisthebest&show_icons=true&theme=codeSTACKr&bg_color=00000000)
-
-![trophy](https://github-profile-trophy.vercel.app/?username=camelcaseisthebest&theme=juicyfresh&no-bg=true&no-frame=true&row=2&column=3)
+<div style="border: thin solid white">
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=camelcaseisthebest&show_icons=true&theme=codeSTACKr&bg_color=00000000" alt="GitHub stats"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=camelcaseisthebest&theme=juicyfresh&no-bg=true&no-frame=true&row=2&column=3" alt="Trophies"/>
+  </p>
+</div>
 <!--- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=camelcaseisthebest&theme=codeSTACKr&bg_color=00000000) --->
 
