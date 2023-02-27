@@ -30,9 +30,11 @@
 	<p>
 		<img src="https://skillicons.dev/icons?i=blender,godot,py,raspberrypi&perline=8" alt=skills>
 	</p>
+  	<p>
+    		<img src="https://komarev.com/ghpvc/?username=magnusKue&color=orange&style=flat-square" alt=profile-views>
+	</p>
   </div>
 </div>
-
 
 <!--- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=camelcaseisthebest&theme=codeSTACKr&bg_color=00000000) --->
 
