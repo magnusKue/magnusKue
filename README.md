@@ -21,7 +21,10 @@
   </p>
 </div>
 <div>
-  <img src="https://skillicons.dev/icons?i=blender,godot,py,raspberrypi" alt=skills>
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=magnusKue&theme=codeSTACKr&bg_color=00000000" alt="languages used">
+  <p align="center">
+  	<img src="https://skillicons.dev/icons?i=blender,godot,py,raspberrypi" alt=skills>
+		<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=magnusKue&theme=codeSTACKr&bg_color=00000000" alt="languages used">
+	</p>
+</div>
 <!--- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=camelcaseisthebest&theme=codeSTACKr&bg_color=00000000) --->
-![Skills](https://skillicons.dev/icons?i=blender,godot,py,raspberrypi)
+
