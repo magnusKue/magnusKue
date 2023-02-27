@@ -25,9 +25,9 @@
 <div class="row", style="border: thin solid white">
   <div class="column">
   	<p align="center">
-  		<img src="https://skillicons.dev/icons?i=blender,godot,py,raspberrypi&perline=2" alt=skills>
-			<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=magnusKue&theme=codeSTACKr&bg_color=00000000" alt="languages used">
-		</p>
+		<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=magnusKue&theme=codeSTACKr&bg_color=00000000" alt="languages used">
+		<img src="https://skillicons.dev/icons?i=blender,godot,py,raspberrypi&perline=2" alt=skills>
+	</p>
   </div>
 </div>
 <!--- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=camelcaseisthebest&theme=codeSTACKr&bg_color=00000000) --->
