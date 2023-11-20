@@ -15,10 +15,10 @@
 
 ### Stats:
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=magnusKue&show_icons=true&theme=codeSTACKr" alt="GitHub stats"/>
+  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=magnusKue&show_icons=true&theme=codeSTACKr" alt="GitHub stats"/>
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=magnusKue&theme=codeSTACKr&layout=compact&langs_count=8&card_width=320" alt="languages used"/>
+  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=magnusKue&theme=codeSTACKr&layout=compact&langs_count=8&card_width=288" alt="languages used"/>
 </a>
 
 <!--- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=camelcaseisthebest&theme=codeSTACKr&bg_color=00000000) --->
