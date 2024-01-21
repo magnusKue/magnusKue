@@ -7,7 +7,7 @@ Student
 I am an amateur coder, with a particular interest in graphics programming and rendering.
 
 *   🌍  I'm based in Germany
-*   🧠  I'm learning Rust
+*   🧠  I'm learning Rust with bevy
 *   🤝  I'm open to collaborating on Anything
 *   🥷 I mostly use private repos so you dont have to look at my shitty code
 
