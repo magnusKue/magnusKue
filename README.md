@@ -9,7 +9,7 @@ I am an amateur coder, with a particular interest in graphics programming and re
 *   🌍  I'm based in Germany
 *   🧠  I'm learning Rust with bevy
 *   🤝  I'm open to collaborating on Anything
-*   🥷 I mostly use private repos so you dont have to look at my shitty code
+*   🥷   I mostly use private repos so you dont have to look at my shitty code
 
 ### Skills 
 
