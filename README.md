@@ -37,11 +37,11 @@ I am an amateur coder, with a particular interest in graphics programming and re
 
 
 ### Stats:
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="http://www.github.com/magnusKue">
   <img height=170 align="center" src="https://github-readme-stats.vercel.app/api?username=magnusKue&show_icons=true&hide=issues,&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="GitHub stats"/>
 </a>
 
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="http://www.github.com/magnusKue">
   <img height=170 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=magnusKue&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&layout=compact&langs_count=8&card_width=288" alt="languages used"/>
 </a>
 
